@@ -3,7 +3,7 @@ A basic walk-through of setting up a new Laravel project.
 
 There are two methods of setting up a new Laravel project: 
 
-## Compoaser and Laravel
+## Composer and Laravel
 
 You can use composer to simply download a new project scaffolding:
 
