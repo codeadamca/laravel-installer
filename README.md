@@ -1,4 +1,4 @@
-# laravel-installer
+# The Laravel Installer
 A basic walk-through of setting up a new Laravel project.
 
 There are two methods of setting up a new Laravel project: 
