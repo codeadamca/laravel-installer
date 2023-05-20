@@ -1,4 +1,5 @@
 # The Laravel Installer
+
 A basic walk-through of setting up a new Laravel project.
 
 There are two methods of setting up a new Laravel project: 
@@ -73,7 +74,10 @@ You are now ready to create a new Laravel project. Open your command line tool, 
 ```
 laravel new example-app
 ```
-## Tutorial Requirements:
+
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Composer](https://getcomposer.org/) 
