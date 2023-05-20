@@ -25,7 +25,7 @@ cd example-app
 php artisan serve
 ```
 
-This will create a new Laravel application scaffolding in a folder names `example-app` and deploy the application using (Artisan)[https://laravel.com/docs/9.x/artisan#introduction] (the command line interface included with Laravel). 
+This will create a new Laravel application scaffolding in a folder names `example-app` and deploy the application using [Artisan](https://laravel.com/docs/9.x/artisan#introduction) (the command line interface included with Laravel). 
 
 You can also deploy the new Laravel application using a tool such as MAMP by pointing the root directory to `example-app/public`.
 
