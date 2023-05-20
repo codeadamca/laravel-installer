@@ -83,7 +83,7 @@ laravel new example-app
 * [Composer](https://getcomposer.org/) 
 * [Laravel](https://laravel.com/)
 
-Full tutorial URL: https://codeadam.ca/learning/laravel-installer
+> Full tutorial URL: https://codeadam.ca/learning/laravel-installer
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
