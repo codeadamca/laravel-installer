@@ -2,7 +2,7 @@
 
 A basic walk-through of setting up a new Laravel project.
 
-There are two methods of setting up a new Laravel project: 
+There are two methods of setting up a new Laravel project:
 
 ## Composer and Laravel
 
@@ -25,11 +25,11 @@ cd example-app
 php artisan serve
 ```
 
-This will create a new Laravel application scaffolding in a folder names `example-app` and deploy the application using [Artisan](https://laravel.com/docs/9.x/artisan#introduction) (the command line interface included with Laravel). 
+This will create a new Laravel application scaffolding in a folder names `example-app` and deploy the application using [Artisan](https://laravel.com/docs/9.x/artisan#introduction) (the command line interface included with Laravel).
 
 You can also deploy the new Laravel application using a tool such as MAMP by pointing the root directory to `example-app/public`.
 
-![MAMP Settings](https://raw.githubusercontent.com/codeadamca/laravel-installer/main/mamp-root-folder.png)
+![MAMP Settings](_readme/mamp-root-folder.png)
 
 Once you have the Laravel installer installed, you will want to add it to your PATHS, so it is accessible from any folder using the command line. This is done slightly different on a Windows maching and a MAc:
 
@@ -38,8 +38,8 @@ Once you have the Laravel installer installed, you will want to add it to your P
 If you are using Windows, follow these steps:
 
 1. Open up the Comman Prompt
-2. Run the following commane: 
- 
+2. Run the following commane:
+
 ```sh
 pathman /ru c:\Users\[Your User]\AppData\Roaming\Composer\vendor\bin
 ```
@@ -51,7 +51,7 @@ pathman /ru c:\Users\[Your User]\AppData\Roaming\Composer\vendor\bin
 If you are using a Mac, follow these steps:
 
 1. Open the Terminal
-2. Open the paths file using VIM: 
+2. Open the paths file using VIM:
 
 ```sh
 sudo vim /etc/paths
@@ -75,13 +75,13 @@ You are now ready to create a new Laravel project. Open your command line tool, 
 laravel new example-app
 ```
 
-***
+---
 
 ## Repo Resources
 
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Composer](https://getcomposer.org/) 
-* [Laravel](https://laravel.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Composer](https://getcomposer.org/)
+- [Laravel](https://laravel.com/)
 
 > Full tutorial URL: https://codeadam.ca/learning/laravel-installer
 
