@@ -39,10 +39,10 @@ If you are using Windows, follow these steps:
 
 1. Open up the Comman Prompt
 2. Run the following commane:
-
-```sh
-pathman /ru c:\Users\[Your User]\AppData\Roaming\Composer\vendor\bin
-```
+    
+    ```sh
+    pathman /ru c:\Users\[Your User]\AppData\Roaming\Composer\vendor\bin
+    ```
 
 3. YOu can then run the command `echo %PATH%` to see a list of all current folders included.
 
@@ -52,17 +52,17 @@ If you are using a Mac, follow these steps:
 
 1. Open the Terminal
 2. Open the paths file using VIM:
-
-```sh
-sudo vim /etc/paths
-```
+    
+    ```sh
+    sudo vim /etc/paths
+    ```
 
 3. Push the `o` key. This will insert a new line and change to insertion mode.
 4. Add the path to the Laravel installer to your paths file:
-
-```sh
-/Users/Adam/.composer/vendor/bin
-```
+    
+    ```sh
+    /Users/Adam/.composer/vendor/bin
+    ```
 
 5. Push `ESC`, this will exit insertion mode.
 6. Type `:wq`, this will save an exit.
@@ -75,6 +75,9 @@ You are now ready to create a new Laravel project. Open your command line tool, 
 laravel new example-app
 ```
 
+> Full tutorial URL:  
+> https://codeadam.ca/learning/laravel-installer
+
 ---
 
 ## Repo Resources
@@ -82,8 +85,6 @@ laravel new example-app
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Composer](https://getcomposer.org/)
 - [Laravel](https://laravel.com/)
-
-> Full tutorial URL: https://codeadam.ca/learning/laravel-installer
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
